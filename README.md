@@ -122,6 +122,7 @@ public class WelcomerTest {
 
 <img width="1920" height="1080" alt="Снимок экрана (2097)" src="https://github.com/user-attachments/assets/2ee3ac76-4e9f-4104-b5ab-5e4fd28b35de" />
 
+<img width="1920" height="1080" alt="Снимок экрана (2098)" src="https://github.com/user-attachments/assets/334696b8-abab-4220-a918-8897ae7fce9b" />
 
 ### 3.2. Внесение изменений в master через Merge
 
